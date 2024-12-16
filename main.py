@@ -1,7 +1,7 @@
 import CurrrencyBot
 
 def main():
-    TOKEN = "7782054489:AAG8l-wsvoFQ8S6lzTklMQxjDCS5jvM4mYg"  # Замените на ваш токен
+    TOKEN = ""  # Замените на ваш токен
     bot = CurrrencyBot.CurrencyBot(TOKEN)
     bot.run()
 
